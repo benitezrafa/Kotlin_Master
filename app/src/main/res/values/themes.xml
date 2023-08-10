@@ -28,4 +28,7 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="TodoSubtitle">
+        <item name="textAllCaps">true</item>
+    </style>
 </resources>
